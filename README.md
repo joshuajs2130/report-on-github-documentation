@@ -56,7 +56,7 @@
 2.Click Confirm merge. You will receive a message that the request was successfully merged and the request was closed.
 3.Click Delete branch. Now that your pull request is merged and your changes are on main, you can safely delete the readme-edits branch.
 
-FINALLY,
+# FINALLY,
 1.Set up of Git.
 2.Downloading of Github Destop.
 3.Importing of Code to Github.
